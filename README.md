@@ -38,11 +38,11 @@ The goal of this project is to classify wholesale customers into two categories 
 -	Model trained on the selected features and target Channel (HORECA vs. Retail).
 
 ## Model Evaluation
--	Classification Report:
+- Classification Report:
          - High precision and recall, especially for HORECA (Channel 1).
-•	Confusion Matrix:
+- Confusion Matrix:
          - Minimal misclassification between the two customer types.
-•	Decision Tree Visualization:
+- Decision Tree Visualization:
          - Key splits were made based on Grocery, Milk, and Detergents_Paper.
 
 
